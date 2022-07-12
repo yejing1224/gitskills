@@ -4,4 +4,9 @@ yejing123
 abc
 fsfsdfds
 yangqinazhi
+<<<<<<< HEAD
 hallo word
+=======
+wo,sxb
+>>>>>>> featurel
+i me w
